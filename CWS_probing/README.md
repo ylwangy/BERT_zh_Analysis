@@ -1,5 +1,5 @@
 # Probing Model
-<img src="probe.jpg" >
+<img src="probe.jpg" width="800">
 
 # Steps
 * Prepare your data and put them into the **demo** folder
