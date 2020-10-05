@@ -1,5 +1,5 @@
 # Character-to-Character Attention
-<img src="att.pdf" width="1000" >
+<img src="att.jpg" width="1000" >
 
 # Steps
 * Prepare your data and replace the **demo.seg** file
