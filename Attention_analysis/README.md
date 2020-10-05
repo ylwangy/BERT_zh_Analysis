@@ -1,5 +1,5 @@
 # Steps
-* Prepare your data and replace the demo.seg file
+* Prepare your data and replace the **demo.seg** file
 * Run the script for pre-processing:
 ```
 python process.sh
