@@ -1,5 +1,5 @@
 # Paper
-**Does Chinese BERT Encode Word Structure?**(COLING 2020)
+**Does Chinese BERT Encode Word Structure?** (COLING 2020)
 
 # Requirement
 * Python: 3.6.1

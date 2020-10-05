@@ -1,3 +1,6 @@
+# Character-to-Character Attention
+<img src="att.pdf" width="1000" >
+
 # Steps
 * Prepare your data and replace the **demo.seg** file
 * Run the script for pre-processing:
