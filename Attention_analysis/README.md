@@ -1,5 +1,5 @@
 # Character-to-Character Attention
-<img src="att.jpg" width="1000" >
+<img src="att.jpg" >
 
 # Steps
 * Prepare your data and replace the **demo.seg** file
